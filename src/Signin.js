@@ -1,5 +1,5 @@
 import React, { useRef, useState } from "react"
-//import "./App.css"
+import "./App.css"
 import { Form, Button, Card, Container, Row, Col, Alert } from "react-bootstrap"
 import "firebase/auth"
 import { useAuth } from "./AuthContext"
