@@ -5,7 +5,7 @@ import { AuthProvider } from "./AuthContext"
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom"
 //import Todo from "./Todo"
 import Signin from "./Signin"
-//import PrivateRoute from "./PrivateRoute"
+import PrivateRoute from "./PrivateRoute"
 import ForgotPassword from "./ForgotPassword"
 import Grid from '@material-ui/core/Grid'
 
